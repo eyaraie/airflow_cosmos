@@ -96,5 +96,10 @@ make destroy
 - Deletes Kubernetes cluster & all resources.
 
 ---
+
+## 🔥 Future Enhancements
+Migrate from SequentialExecutor to CeleryExecutor for better parallelism.
+Implement CI/CD pipelines for automated testing and deployment.
+Add data validation & monitoring with Great Expectations, Grafana and Prometheus.
 ### 🚀 **Happy Data Engineering!** 🎯
 
