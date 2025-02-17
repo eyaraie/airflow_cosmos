@@ -1,0 +1,4 @@
+astronomer-cosmos
+dbt-postgres
+psycopg2-binary
+dbt-core
